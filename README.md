@@ -18,4 +18,4 @@ Run the developer server:
 If not start automatically, go to http://localhost:3000/ in your web browser.
 
 ## Demo
-To see working demo go to https://sebastianlalek.github.io/goit-react-hw-02-phonebook/
+To see working demo go to https://sebastianlalek.github.io/goit-react-hw-03-phonebook/
